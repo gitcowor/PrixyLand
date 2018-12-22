@@ -1,2 +1,2 @@
 # PrixyLandPage
-The Ladning Page for Prixy
+The Landing Page for Prixy
